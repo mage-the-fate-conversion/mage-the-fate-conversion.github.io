@@ -1,6 +1,6 @@
 # Issues
 
-While I found mage fantastic, and rarely made house rules in the period of 20 years of playing it, now that I have drawn a critical eye at it, I do have some things I'd like to change given this opportunity.
+While I find mage fantastic, and rarely made house rules in the period of 20 years of playing it, now that I have drawn a critical eye at it, I do have some things I'd like to change given this opportunity.
 
 ### Spheres are ubiquitous in the game and effectively make up the base paradigm.
 Mage is about divergent paradigms, but all paradigms work the same way.  Technically, a Verbena Forces weather mage can control a computer by controlling its electric circuits.  Similarly, a Virtual Adept computer hacker can 

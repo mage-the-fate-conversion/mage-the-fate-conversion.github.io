@@ -1,0 +1,21 @@
+If magic depends on one's beliefs, it stands to reason that not everyone has the same capabilities.  These capabilities would vary wildly between mages.  Spheres, per game canon, are categorizations made by the Order of Hermes, which are very convenient for the Mage community as a whole to adopt as a standardized communication.  For this version of the game, we've expanded the term Sphere to mean a specific area over which the mage has influence.  The classic spheres still exists but the game is not constrained to just those nine spheres.  
+
+The other major difference between the original game and this version, is that the characters capability is not determined by their rating in a Sphere.  Instead, the more complex matters of Sphere magic are given higher and higher difficulties, which is all explained in [Casting](#casting).  This change allows us to not have to specify every level of every possible Sphere.  It also allows a Mage to reach beyond their normal capabilities with great effort.
+
+A Sphere, in this version, might allow one to have certain abilities from multiple of the classical Spheres, but not all.  For example a weather mage might in original Mage would have a certin amount of Forces.  Normally Forces would allow one to throw lightning and sense electrical circuits.  A weather mage would be able to throw lightning, not sense electrical circuits, but could with this same sphere create rain, what would normally be considered a Matter effect, and even look up and down the time stream to a degree to sense what weather has done or might do.
+
+A **Computers** mage would have the ability to read encrypted data in an image visually, run applications in their mind, connect to remote computers without cables, and put together a working machine with broken parts, or create an artificial intelligence.
+
+An **Animals** mage would be able to talk to animals, shapeshift into animals, morph existing animals, command them, heal them, etc.
+
+When creating new Spheres one should bear in mind that Spheres are supposed to encompass a decent amount of capability, but not do everything.  For example a Nature sphere is very powerful by itself, encompassing all humans, animals plants and weather, and maybe more depending one one's definition of Nature.  The spheres themselves should have distinct limitations; the aforementioned weather mage would not be able to cast illusions, and the Computer mage would not be able to shapeshift.  
+
+Not all spheres have to have equal power however.  One mage might have animals, where another just has mammals, insects or lizards.  Ultimately, it's up to the storyteller to decide what is too much to too little in their game.
+
+Lastly, do not be afraid of creating more esoteric Spheres such as Decay or Mathematics.  While sometimes more difficult to play, if the player is willing and able to come up with useful effects with it, let it slide.
+
+If in doubt, fallback to the classic nine Spheres.
+
+Below are some sample Spheres:
+
+Weather, Computers, Animals, Forces, War, Ghosts, Fate, Decay, Oaths, Robots, Darkness, Illusions

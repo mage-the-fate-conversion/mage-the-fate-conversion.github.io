@@ -1,0 +1,24 @@
+The standard character in this conversion for Mage starts off with the following
+
+* 20 skill points
+* 3 domains/sphere
+* 3 fate
+* 3 stunts
+
+New stress track
+----------------
+**Paradox** - This tracks the amount of temporary paradox the mage has.
+
+New Skills
+----------
+**Arete** - This skill increases your paradox track.  1 & 2 give you a third stress box, 3 & 4 give you a fourth stress box.  Above 4 gives you a new mild consequence for Paradox consequences. Unlike orginal Mage, this skill does not limit indicate the maximum number you can have in a sphere.
+
+Required Aspect
+---------------
+**Paradigm** - As a big part of the focus of the game is what the mage believes, there is one aspect dedicated to what they believe.  This is the core belief of the mage in question and serves as their springboard into magic, and their limiting beliefs regarding magic.  This aspect takes the place of one of the three character aspects.
+
+Optional Aspects
+----------------
+These aspects describe different parts of the Mage game which may be important to the character, but not required for all characters.
+
+Avatar, Foci, Essence
