@@ -2,7 +2,9 @@
 	<li><a href="#index">Home</a></li>
 	<li><a href="#create">Character Creation</a></li>
 	<li><a href="#spheres">Spheres</a></li>
-	<li><a href="#paradox">Paradox</a></li>
 	<li><a href="#casting">Casting</a></li>
-	<li><a href="#casting">Extras/Backgrounds</a></li>
+	<li><a href="#rotes">Rotes</a></li>
+	<li><a href="#prime">Prime</a></li>
+	<li><a href="#paradox">Paradox</a></li>
+	<li><a href="#extras">Extras/Backgrounds</a></li>
 </ul>

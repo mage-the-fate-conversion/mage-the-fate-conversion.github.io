@@ -1,0 +1,17 @@
+A rote is a codified spell
+
+There are a few types of rotes:  Spell boosts, Aspect creation and Rituals.  All rotes have a few things in common.  They all must use foci, they all have the same effect every time, and they must all be cast the same way every time.  This means for example, that a rote to levitate oneself by invoking certain words in enochian will not work on anyone else, if the user cannot speak, or if the caster is trying to levitate someone else.  
+
+### Spell boosts
+
+Spell boosts are simple.  These rotes are tried and true effects that the mage has learned and internalized.  Whenever they roll for the spell effect, they will get a +2 to that roll.
+
+### Aspect creation
+
+With an aspect creation rote, the caster can reliably create the same aspect upon casting.  This is useful to be able to gain ambiguous but predictable spell effects, and of course the free tag that comes with a newly created aspect.  As with the spell boost, the caster is given two extra shifts to the roll.  The aspect created must be the same every time.
+
+### Buying rotes
+After character creation, a rote can be purchased after a minor milestone instead of a skill point.  Once a character has invested in a rote, that rote 'point' cannot be converted over into a skill point.  Unlike skill points, rotes cannot be swapped between sessions.
+
+### Spellbooks
+A rote can be written down at no cost.

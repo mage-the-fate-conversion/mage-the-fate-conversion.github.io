@@ -1,7 +1,8 @@
 The standard character in this conversion for Mage starts off with the following
 
 * 20 skill points
-* 3 domains/sphere
+* 3 spheres
+* 3 [rotes](#rotes)
 * 3 fate
 * 3 stunts
 

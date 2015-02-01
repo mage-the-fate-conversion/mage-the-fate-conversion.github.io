@@ -1,0 +1,48 @@
+### Modifiers
+
+Finding the difficulty of the spell being cast is dependant on modifiers. Unlike classic mage, the level of the spheres do not determine what the mage is capable of, instead the more advanced magics are more difficult but technically available to everyone.  
+
+#### Action:
+>	+2 Knowledge  
+>	+3 Warding  
+>	+4 Alter  
+>	+5 Create  
+>	+6 Conceptual  
+
+
+#### Here and Now, Then and There
+
+Another notable difference is that the ability to gain knowledge of the past or future and affect the future are not restricted to the Time Sphere.  These are basic divinations related directly to the Sphere in question.  A weather mage may be able to tell the weather at a location last year, or across the globe; a computer mage may be able to find information from a broken hard drive, or set a computer to break down at some point in the future.  The knowledge and actions here are strictly limited to the Sphere at hand, however players are encouraged to be creative.  This in no way means that a player can affect the past.  If at all possible, this is strictly the domain of Time and Time-like Spheres.
+
+>	+0 Here and/or now	  
+>	+1 Nearby/Recent/Soon  
+>	+2 Far/Past/Future   
+>	+3 Distant/Ancient/Far Future   
+
+#### Potency:
+
+
+#### Duration:
+>	+0 Immediate action  
+>	+1 One extra turn  
+>	+2 One scene  
+> 	+3 One session  
+
+### Rituals
+A ritual spell effect is a big codified spell.  This is something along the lines of summoning a great spirit, splitting an atom, or bringing a rainstorm to the desert, though the results do not necessarily have to be vulgar.  These rituals are cast by collecting a number of aspects.  The number of aspects needed for the ritual is somewhat arbitrary, but should reflect the power and difficulty of the ritual being cast.  Some leeway can be made if the aspect required is particularly rare.  If any of the aspects are disrupted, the ritual itself will not work until the aspect in question has been restored.    These aspects cannot be used by the caster to tag for bonuses or rerolls, as they're being used already to activate the spell, but are available to others who have uncovered them.
+
+The ritual itself has a fixed target number. Once all aspects have been collected, the caster rolls against the target number of the rote and takes Paradox for each shift away from the target number.  
+
+After collecting the aspects and rolling against the target number the rote is always successful.  The ritual may still incur extra Paradox if it is vulgar, or with witness.  Any Paradox may be mitigated by the shielding effects of a Sanctum. 
+
+Any ritual may be learned as a rote, or written down in a spellbook.
+
+#### For example:  
+Leopold the Verbena is attempting to animate a wood golem after his old one was destroyed in a fire. Leopold has created this golem before and has memorized (purchased) the ritual as a Rote.  A ritual this potent would normally be a near impossible task on a single ordinary roll.  Instead the rote requires the following five aspects to be fulfilled before the ritual can be cast:
+* under the light of a full moon
+* wood from a consecrated tree
+* cleansed and purified body
+* holding a ritual blade
+* blood of the caster 
+
+The target number for this spell is +7. It has a 'Conceptual' difficulty of +6, with a modifier of +1 for 'Affecting other'. Leopold's Spheres are Flora 3 and Spirit 2. His aspect 'Defender of the Woods' allows him to spend a Fate point to gain a +2 to the roll, and a free tag on his Quintessence pool gives him another +2 for a total of 7 for his skill roll.  He rolls his dice and gets a -3.  Figuring that  Paradox stress will go away sooner than he will get another Fate point, Leopold's player decides Leopold takes -2 Paradox stress.  The spell succeeds and the treant comes to life!  As he cast the spell in his woodland Sanctum, he does not receive any paradox for this being a vulgar effect.

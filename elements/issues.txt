@@ -6,7 +6,9 @@ While I find mage fantastic, and rarely made house rules in the period of 20 yea
 Mage is about divergent paradigms, but all paradigms work the same way.  Technically, a Verbena Forces weather mage can control a computer by controlling its electric circuits.  Similarly, a Virtual Adept computer hacker can 
 summon lightning, all because they both have forces.  This has struck me as inherently flawed.  If belief/paradigm really determine's one's magical ability, then those abilities should differ as wildly as the different paradigms do.
 In canon, the Spheres were supposed to be a Hermetic construction that served to organize magic neatly.  It may have worked well politically to create nine Traditions and divide the spheres among chosen Crafts, but I can't see
-the Traditions using the Spheres as anything more than a talking point.
+the Traditions using the Spheres as anything more than a talking point. 
+
+It never made any sense to me that if the Spheres weren't absolute, why there would be such things as Shard realms, or other metaphysic connections to the nine Spheres.  The argument could be made that they exist because the Hermetics decided to acknowledge the Spheres to begin with, but that didn't sit right with me considering how prevalent the Spheres were in game.
 
 To remedy this, we've retooled the magic system to cater more towards the individual mage.   For starters the Spheres are just suggestion among any magical system, which can be combinations, supersets, and/or 
 subsets of individual Spheres.  To make this work, we homogenized the magic system into target difficulties and modifiers that represent the different levels of a Sphere.  It does mean that a novice mage can technically summon
@@ -15,3 +17,9 @@ a fireball, or shapeshift into a dragon, but becomes highly unlikely as the diff
 ### It's possible to ignore paradox altogether
 In the standard Mage, it's very possible to play without paradox.  I've had games where it never came up, and (at least for me personally) can be hard to remember.  In this conversion, Paradox deals consequences and have 
 a more mechanical usage.  They can be targeted, compelled, and used as any other aspect in the game.
+
+### Rotes are meaningless
+One big difference between this conversion and classic Mage are the mechanics for rotes.  Classic mage mentioned rotes, but they were only a footnote for predefined spells.  Here we treat them more like spells from games like D&D that can be learned, cast, written down, and passed on to others.  This mechanic allows a mage to gain benefits from rotes, adds the notion of useful spellbooks, and creates a bridge between Mage and other wizarding games.
+ 
+### Spellbooks were impossible, or meaningless
+This is really tied in with the how rotes were originally constructed, but without a concrete notion of spells, the notion of spellbooks also goes out the window, and possible plot points of powerful ancient spellbooks with arcane knowledge is unavailable too.  Sure, these could be talismans/fetishes/wonders/artifacts but then the creation of these items becomes very different than a means passing sharing or storing knowledge.
