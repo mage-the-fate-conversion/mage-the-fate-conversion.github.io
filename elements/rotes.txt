@@ -1,6 +1,21 @@
-A rote is a codified spell
+## Rotes
 
-There are a few types of rotes:  Spell boosts, Aspect creation and Rituals.  All rotes have a few things in common.  They all must use foci, they all have the same effect every time, and they must all be cast the same way every time.  This means for example, that a rote to levitate oneself by invoking certain words in enochian will not work on anyone else, if the user cannot speak, or if the caster is trying to levitate someone else.  
+A rote is a codified spell, that can be memorized for future use by the mage, and give the mage bonus to spellcasting.  While at first a rote seems Stunt-like they are only ever used to gain a +2 bonus to casting, and are very specific in their effect, and execution.
+
+A rote must meet the following requirements to be valid:
+* **The rote can only be used for bonuses** - The bonus only ever grants a +2 to casting the effect.  The effect may be any one of the [four actions](http://fate-srd.com/fate-core/four-actions) (p. 134)
+* **The effect must be the same every time** - The rote is intended to grant a bonus to one specific action, narrow in scope.  This means that the rote should not be a bonus to most of or the entire Sphere's usage.  If the effect is to create an advantage, the aspect created must be the same every time.
+* **The rote must use the same foci every time** - Each rote must use foci, and the use of those foci must be the same every time the spell effect is cast.  These foci should be written down with the rote.  For example, a rote to levitate oneself by invoking certain words in enochian will not work on anyone else, if the user cannot speak. 
+* **The effect must always have the same outward appearance** - Any time the effect is cast it looks the same.  For example if the effect is to shoot a Star-Wars like laser from the mage's blaster, that laser will only ever come from the blaster and be a beam of the same color.
+
+###Example Rote
+<div>
+	<h4>Master</h4>
+	
+
+<div>
+
+All rotes have a few things in common.  They all must use foci, they all have the same effect every time, and they must all be cast the same way every time.  
 
 ### Spell boosts
 

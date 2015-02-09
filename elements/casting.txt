@@ -1,3 +1,5 @@
+## Casting
+
 ### Modifiers
 
 Finding the difficulty of the spell being cast is dependant on modifiers. Unlike classic mage, the level of the spheres do not determine what the mage is capable of, instead the more advanced magics are more difficult but technically available to everyone.  
@@ -29,7 +31,7 @@ Another notable difference is that the ability to gain knowledge of the past or 
 > 	+3 One session  
 
 ### Rituals
-A ritual spell effect is a big codified spell.  This is something along the lines of summoning a great spirit, splitting an atom, or bringing a rainstorm to the desert, though the results do not necessarily have to be vulgar.  These rituals are cast by collecting a number of aspects.  The number of aspects needed for the ritual is somewhat arbitrary, but should reflect the power and difficulty of the ritual being cast.  Some leeway can be made if the aspect required is particularly rare.  If any of the aspects are disrupted, the ritual itself will not work until the aspect in question has been restored.    These aspects cannot be used by the caster to tag for bonuses or rerolls, as they're being used already to activate the spell, but are available to others who have uncovered them.
+A ritual spell effect is a big codified spell.  This is something along the lines of summoning a great spirit, splitting an atom, or bringing a rainstorm to the desert, though the results do not necessarily have to be vulgar.  These rituals are cast by collecting a number of aspects.  The number of aspects needed for the ritual is somewhat arbitrary, but should reflect the power and difficulty of the ritual being cast.  Some leeway can be made if the aspect required is particularly rare.  If any of the aspects are disrupted, the ritual itself will not work until the aspect in question has been restored.    These aspects cannot be used by the caster to tag for bonuses or rerolls to help with the casting.
 
 The ritual itself has a fixed target number. Once all aspects have been collected, the caster rolls against the target number of the rote and takes Paradox for each shift away from the target number.  
 
@@ -46,3 +48,5 @@ Leopold the Verbena is attempting to animate a wood golem after his old one was 
 * blood of the caster 
 
 The target number for this spell is +7. It has a 'Conceptual' difficulty of +6, with a modifier of +1 for 'Affecting other'. Leopold's Spheres are Flora 3 and Spirit 2. His aspect 'Defender of the Woods' allows him to spend a Fate point to gain a +2 to the roll, and a free tag on his Quintessence pool gives him another +2 for a total of 7 for his skill roll.  He rolls his dice and gets a -3.  Figuring that  Paradox stress will go away sooner than he will get another Fate point, Leopold's player decides Leopold takes -2 Paradox stress.  The spell succeeds and the treant comes to life!  As he cast the spell in his woodland Sanctum, he does not receive any paradox for this being a vulgar effect.
+
+## Healing

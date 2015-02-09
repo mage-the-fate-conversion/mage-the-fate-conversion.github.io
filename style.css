@@ -2,8 +2,9 @@ body {
 	background-color:#070007;
 	color:white;
 	font-family:arial,sans-serif;	
-	font-size:12px;
+	font-size:13px;
 	letter-spacing:0.1em;
+	line-height:15px;
 }
 
 #navigation ul{

@@ -6,5 +6,5 @@
 	<li><a href="#rotes">Rotes</a></li>
 	<li><a href="#prime">Prime</a></li>
 	<li><a href="#paradox">Paradox</a></li>
-	<li><a href="#extras">Extras/Backgrounds</a></li>
+	<li><a href="#backgrounds">Backgrounds</a></li>
 </ul>

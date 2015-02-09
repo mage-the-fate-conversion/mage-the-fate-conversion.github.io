@@ -19,7 +19,9 @@ Backgrounds from classic Mage are hard to translate directly.  Below are the rep
 
 * Sanctum - 1 Refresh point - Any magic cast within a sanctum will not incur Paradox from vulgar magic or witnesses.  Magic in a sanctum can still incur paradox when the mage pushes themselves to get extra * shifts to their casting.
 
-* Wonder/Fetish/Talisman - 
+* Wonder/Fetish/Spellbook
+
+* Talisman - 
 
 * Node - 
 
